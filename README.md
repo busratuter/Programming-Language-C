@@ -1,2 +1,3 @@
-# PD2 
- Lab cozumleri
+# Programlama Dilleri dersinin LAB uygulamalari
+
+
